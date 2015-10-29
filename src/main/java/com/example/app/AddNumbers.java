@@ -1,6 +1,6 @@
 package com.example.app;
 
-public class Add{
+public class AddNumbers{
 	public static void main(String argv[]){
 		int arg1 = Integer.parseInt(argv[0]);
 		int arg2 = Integer.parseInt(argv[1]);
